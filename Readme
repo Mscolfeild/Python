@@ -10,6 +10,7 @@ REQUIREMENTS :
 
 import selenium library 
 change : folder name 
+account: user account name
 file and users : create file txt  (users : whatsapp user or groups name , file : message content)
 xpath : open whatsapp view page source copy xpath.
 
